@@ -1,0 +1,13 @@
+{
+  "name": "AGE Calculator",
+  "description": "AGE Calculator to calculate age accurately",
+  "launch_path": "/index.html",
+  "icons": {
+    "209": "/images/logo.png"
+  },
+  "developer": {
+    "name": "Pritom Borogoria",
+    "url": "http://explorerbd.com"
+  },
+  "default_locale": "en"
+}
